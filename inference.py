@@ -6,6 +6,7 @@ import os
 import joblib
 import logging
 
+
 logging.basicConfig(level=logging.INFO)
 
 # Load the trained model
